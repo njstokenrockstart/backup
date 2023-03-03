@@ -1,2 +1,1 @@
-# backup
-Static Files Backup
+# STATIC FILES BACKUP
